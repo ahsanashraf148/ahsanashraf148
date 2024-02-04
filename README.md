@@ -9,8 +9,8 @@ I’m interested in coding, sometimes math, and loving nature.
 * 🌍  I'm based in Karachi, Pakistan
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/ahsan-ashraf148)
 * ✉️  You can contact me at [ahsanashraf148@gmail.com](mailto:ahsanashraf148@gmail.com)
-* 🧠  I'm learning C++
-* 🤝  I'm open to collaborating on C and C++ based projects
+* 🧠  I'm learning C++, Python, Machine Learning, Data Science, Deep Learning
+* 🤝  I'm open to collaborating on C and C++ based projects, Python projects, ML and deep learning projects, Data Science projects
 * ⚡  I'm secretly poet, but don't tell to anyone.
 
 <a href="https://www.twitter.com/ahsanashraf148" target="_blank" rel="noreferrer"><img
