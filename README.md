@@ -44,8 +44,8 @@ src="https://img.shields.io/github/followers/ahsanashraf148?logo=github&style=fo
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/ahsanashraf148/Banking-System" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahsanashraf148&repo=Banking-System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ahsanashraf148/Fast-University-Material" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahsanashraf148&repo=Fast-University-Material&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/ahsanashraf148/Banking-System" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahsanashraf148&repo=Banking-System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
-<br /><br /><br /><br /><br />
+<a href="https://github.com/ahsanashraf148/Fast-University-Material" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahsanashraf148&repo=Fast-University-Material&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/ahsanashraf148/command-prompt-and-windows-shortcut" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahsanashraf148&repo=command-prompt-and-windows-shortcut&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
