@@ -1,7 +1,7 @@
 Hi 👋 My name is Ahsan Ashraf
 =============================
 
-Future Computer Scientist
+A Computer Scientist
 -------------------------
 
 I’m interested in coding, sometimes math, and loving nature.
@@ -11,7 +11,7 @@ I’m interested in coding, sometimes math, and loving nature.
 * ✉️  You can contact me at [ahsanashraf148@gmail.com](mailto:ahsanashraf148@gmail.com)
 * 🧠  I'm learning C++, Python, Machine Learning, Data Science, Deep Learning
 * 🤝  I'm open to collaborating on C and C++ based projects, Python projects, ML and deep learning projects, Data Science projects
-* ⚡  I'm secretly poet, but don't tell to anyone.
+* ⚡  I'm secretly a poet but don't tell anyone.
 
 <a href="https://www.twitter.com/ahsanashraf148" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ahsanashraf148?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -38,8 +38,6 @@ src="https://img.shields.io/github/followers/ahsanashraf148?logo=github&style=fo
 <a href="http://www.github.com/ahsanashraf148"><img src="https://github-readme-stats.vercel.app/api?username=ahsanashraf148&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ahsanashraf148's GitHub stats" /></a>
 
 <a href="http://www.github.com/ahsanashraf148"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsanashraf148&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/ahsanashraf148"><img src="https://activity-graph.herokuapp.com/graph?username=ahsanashraf148&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/ahsanashraf148" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanashraf148&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
