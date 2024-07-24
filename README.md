@@ -1,16 +1,16 @@
-Hi 👋 My name is Ahsan Ashraf
+Hi 👋 This is Ahsan Ashraf, A Computer Scientist
 =============================
 
-A Computer Scientist
+I’m interested in coding, sometimes math, and loving nature.
+
 -------------------------
 
-I’m interested in coding, sometimes math, and loving nature.
 
 * 🌍  I'm based in Karachi, Pakistan
 * 🖥️  See my portfolio at [ahsanashraf148.com](https://ahsanashraf148.github.io/)
 * ✉️  You can contact me at [ahsanashraf148@gmail.com](mailto:ahsanashraf148@gmail.com)
 * 🧠  I'm learning C++, Python, Machine Learning, Data Science, Deep Learning
-* 🤝  I'm open to collaborating on C and C++ based projects, Python projects, ML and deep learning projects, Data Science projects
+* 🤝  I'm open to collaborating on C and C++ based projects, Python projects,  Web Dev Projects,ML and deep learning projects, Data Science projects
 * ⚡  I'm secretly a poet but don't tell anyone.
 
 <a href="https://www.twitter.com/ahsanashraf148" target="_blank" rel="noreferrer"><img
