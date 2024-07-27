@@ -49,16 +49,16 @@ src="https://img.shields.io/github/followers/ahsanashraf148?logo=github&style=fo
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/ahsanashraf148/leetcode-automation.git" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahsanashraf148&repo=Banking-System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/ahsanashraf148/leetcode-automation.git" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahsanashraf148&repo=leetcode-automation&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
-<a href="https://github.com/ahsanashraf148/ahsanashraf148.github.io.git" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahsanashraf148&repo=Fast-University-Material&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/ahsanashraf148/ahsanashraf148.github.io.git" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahsanashraf148&repo=ahsanashraf148.github.io&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
-<a href="https://github.com/ahsanashraf148/AI-Gym-Trainer-and-Diet-Recommender.git" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahsanashraf148&repo=Fast-University-Material&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/ahsanashraf148/AI-Gym-Trainer-and-Diet-Recommender.git" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahsanashraf148&repo=AI-Gym-Trainer-and-Diet-Recommender&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
-<a href="https://github.com/ahsanashraf148/Convex-Hull-and-Line-Intersection-Algorithms-With-Visualization.git" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahsanashraf148&repo=Fast-University-Material&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/ahsanashraf148/Convex-Hull-and-Line-Intersection-Algorithms-With-Visualization.git" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahsanashraf148&repo=Convex-Hull-and-Line-Intersection-Algorithms-With-Visualization&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
-<a href="https://github.com/ahsanashraf148/AK-Car-Rental-Website.git" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahsanashraf148&repo=Fast-University-Material&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/ahsanashraf148/AK-Car-Rental-Website.git" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahsanashraf148&repo=AK-Car-Rental-Website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
-</div><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/ahsanashraf148/command-prompt-and-windows-shortcut" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahsanashraf148&repo=command-prompt-and-windows-shortcut&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
