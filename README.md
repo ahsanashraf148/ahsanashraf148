@@ -49,7 +49,7 @@ src="https://img.shields.io/github/followers/ahsanashraf148?logo=github&style=fo
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/ahsanashraf148/leetcode-automation.git" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahsanashraf148&repo=Banking-System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<div width="100%" align="center"><a href="https://github.com/ahsanashraf148/leetcode-automation.git" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahsanashraf148&repo=Banking-System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 <a href="https://github.com/ahsanashraf148/ahsanashraf148.github.io.git" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahsanashraf148&repo=Fast-University-Material&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
