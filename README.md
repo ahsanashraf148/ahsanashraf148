@@ -1,7 +1,7 @@
 Hey 👋 This is Ahsan Ashraf, A Computer Scientist
 =============================
 
-I do coding, sometimes math, and staring at moon.
+I code, take interest in  maths, and sometimes stare at the moon.
 
 -------------------------
 
