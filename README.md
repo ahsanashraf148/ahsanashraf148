@@ -1,7 +1,7 @@
-Hi 👋 This is Ahsan Ashraf, A Computer Scientist
+Hey 👋 This is Ahsan Ashraf, A Computer Scientist
 =============================
 
-I’m interested in coding, sometimes math, and staring at moon.
+I do coding, sometimes math, and staring at moon.
 
 -------------------------
 
