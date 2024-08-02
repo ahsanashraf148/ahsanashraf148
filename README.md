@@ -1,17 +1,17 @@
 Hey 👋 This is Ahsan Ashraf, A Computer Scientist
 =============================
 
-I code, take interest in  maths, and sometimes stare at the moon.
+I code, take an interest in  maths, and sometimes stare at the moon.
 
 -------------------------
 
 
-* 🌍  I'm based in Karachi, Pakistan
+* 🌍  I'm based in Karachi, Pakistan.
 * 🖥️  See my portfolio at [ahsanashraf148.com](https://ahsanashraf148.github.io/)
 * ✉️  You can contact me at [ahsanashraf148@gmail.com](mailto:ahsanashraf148@gmail.com)
 * 🧠  I'm learning C++, Python, Machine Learning, Data Science, Deep Learning
-* 🤝  I'm open to collaborating on C and C++ based projects, Python projects,  Web Dev Projects,ML and deep learning projects, Data Science projects
-* ⚡  I'm secretly a poet but don't tell anyone.
+* 🤝  I'm open to collaborating on C and C++ based projects, Python projects,  Web Dev Projects, ML and deep learning projects, Data Science projects
+* ⚡  I'm secretly a poet.
 
 <a href="https://www.twitter.com/ahsanashraf148" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ahsanashraf148?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
