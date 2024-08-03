@@ -1,4 +1,4 @@
-Hey 👋 This is Ahsan Ashraf, A Computer Scientist
+Hey 👋 This is Ahsan Ashraf, A Computer Scientist.
 =============================
 
 I code, take an interest in  maths, and sometimes stare at the moon.
